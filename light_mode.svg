@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180px" height="540px" viewBox="0 0 1180 540" font-family="ConsolasFallback, Consolas, monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+text, tspan { white-space: pre; }
+.key { fill: #953800; }
+.value { fill: #0a3069; }
+.dim { fill: #c2cfde; }
+</style>
+<rect width="1180" height="540" rx="16" fill="#f6f8fa"/>
+<text x="20" y="22" fill="#24292f" font-size="4.2px">
+<tspan x="20" y="22.0">                                                                                                    </tspan>
+<tspan x="20" y="28.0">                                                                                                    </tspan>
+<tspan x="20" y="34.0">                                                                                                    </tspan>
+<tspan x="20" y="40.0">                                                                                                    </tspan>
+<tspan x="20" y="46.0">                             Y                                        Y                             </tspan>
+<tspan x="20" y="52.0">                          OF                                            JL                          </tspan>
+<tspan x="20" y="58.0">                        ODY                                               FL                        </tspan>
+<tspan x="20" y="64.0">                       DF             W                      W             JBY                      </tspan>
+<tspan x="20" y="70.0">                     SAF            HY                        YHY           LAN                     </tspan>
+<tspan x="20" y="76.0">                    SAD           HJ                            OFY          FAO                    </tspan>
+<tspan x="20" y="82.0">                   YAAW          HB                              DD          YAAW                   </tspan>
+<tspan x="20" y="88.0">                   NAB          NAY                               BJ          FAJ                   </tspan>
+<tspan x="20" y="94.0">                  WAAU         OAF                                LAL         YAAU                  </tspan>
+<tspan x="20" y="100.0">                  LAB         SAA                                  BAO         DAH                  </tspan>
+<tspan x="20" y="106.0">                  BAD        WAAH                                  NAAS        FAAY                 </tspan>
+<tspan x="20" y="112.0">                 NAAD        BAAL                                  OAAB        JAAJ                 </tspan>
+<tspan x="20" y="118.0">                 DAAH        FAAAAAAAAF                      JAAAAAAAAD        NAAB                 </tspan>
+<tspan x="20" y="124.0">                WAAAL             WQLDAAN    YO      SW    OAABJQW             QAAAQ                </tspan>
+<tspan x="20" y="130.0">                HAAAN          W      YFAAN DD        FDYQAABY      WY         SAAAD                </tspan>
+<tspan x="20" y="136.0">                BAAAJYYUOHBAAAAAAAAAHSY YBAAABWBAUWAAWDAAAAW YUJAAAAAAAAAAHOUWYNAAAAY               </tspan>
+<tspan x="20" y="142.0">                LAAAAAAAAAAABFJNOQONJDAAAAAAAAAAAAAAAAAAAAAAAADJNOQONLFBAAAAAAAAAAAJ                </tspan>
+<tspan x="20" y="148.0">                  JAAAFSY               WDAAAAAAAAAAAAAAAABU               YSHAAAHY                 </tspan>
+<tspan x="20" y="154.0">                             QFDBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABDFNY                            </tspan>
+<tspan x="20" y="160.0">                          OBAAAAAADHLNOOOLAAAAAAAAAAAAAAAAJOOONLJDAAAAAABN                          </tspan>
+<tspan x="20" y="166.0">                       UBAAAAAJY        QAAAAAAAAAAAAAAAAAAN        YNAAAAABQ                       </tspan>
+<tspan x="20" y="172.0">                    SBAAAAAJ         SDAAADFAAAAAAAAAAAAFFAAABS         NBAAAABQ                    </tspan>
+<tspan x="20" y="178.0">                 NBAAAAAHW       UJBAAABU  QAAAAAAAAAAAAN  WDAAAAHU       YJAAAAABL                 </tspan>
+<tspan x="20" y="184.0">             QAAAAAAAAU        LAAAAADY   UAAAAAAAAAAAAAAQ    FAAAAAH        YAAAAAAAAN             </tspan>
+<tspan x="20" y="190.0">            FAAAAAAJ          SAAAAAU    OAAAAAAAAAAAAAAAAL    WBAAAAO          NAAAAAADY           </tspan>
+<tspan x="20" y="196.0">           DAAAAAH            YAAAAW    UAAAAAAAAAAAAAAAAAAO    YAAAAU            LAAAAAB           </tspan>
+<tspan x="20" y="202.0">            FAAAAAW            LAAAO     BAAAAAAAAAAAAAAAAAY    UAAAH            YBAAAAFY           </tspan>
+<tspan x="20" y="208.0">              NAAAABQ          YAAAAW    DAAAAAAAAAAAAAAAAB    YAAAAU          SDAAAALY             </tspan>
+<tspan x="20" y="214.0">                SAAAAAHY        OAAAL    QAAAAAAAAAAAAAAAAL    OAAAJ         JAAAAAO                </tspan>
+<tspan x="20" y="220.0">                  NAAAAAAB      YAAAAO    BAAAAAAAAAAAAAAA    QAAAAW      DAAAAAAJ                  </tspan>
+<tspan x="20" y="226.0">                   WBAAAAAU      NAAAAL   LAAAAAAAAAAAAAAH   OAAAAH      YAAAAAAU                   </tspan>
+<tspan x="20" y="232.0">                     AAAAAL      YAAAAF    BAAAAAAAAAAAAA    JAAAAW      OAAAAAY                    </tspan>
+<tspan x="20" y="238.0">                      BAAAF       LAAAB    QAAAAAAAAAAAAN    DAAAF       JAAAAY                     </tspan>
+<tspan x="20" y="244.0">                      NAAAB        BAAAU    JAAAAAAAAAAF    YAAAA        DAAAJ                      </tspan>
+<tspan x="20" y="250.0">                       DAAAY       HAAAH     BAAAAAAAAAY    NAAAD        AAAB                       </tspan>
+<tspan x="20" y="256.0">                       OAAAN       YAAAB     WAAAAAAAAU     DAAAW       SAAAL                       </tspan>
+<tspan x="20" y="262.0">                        BAAD        HAAA      WAUYYWAQ      BAAF        JAAA                        </tspan>
+<tspan x="20" y="268.0">                        LAAB        UAAAQ      SY  YO      WAAAQ        BAAH                        </tspan>
+<tspan x="20" y="274.0">                        WAAAY        FAAD                  JAAD         BAAS                        </tspan>
+<tspan x="20" y="280.0">                         FAAQ        OAAAY                 BAAN        YAAB                         </tspan>
+<tspan x="20" y="286.0">                         OAAH        YAAAW                YAAAU        NAAL                         </tspan>
+<tspan x="20" y="292.0">                         WAAAY        HAAQ                WAAD         BAAS                         </tspan>
+<tspan x="20" y="298.0">                          DAAW        QAAH                NAAN        YAAA                          </tspan>
+<tspan x="20" y="304.0">                          OAAS        WAAA                DAAU        WAAL                          </tspan>
+<tspan x="20" y="310.0">                          WAAL         BAAW              YAAAY        OAAS                          </tspan>
+<tspan x="20" y="316.0">                           AAB         OAAS              WAAL         FAAY                          </tspan>
+<tspan x="20" y="322.0">                           OAAW        YAAN              QAAU        YAAJ                           </tspan>
+<tspan x="20" y="328.0">                           YAAQ         AAF              JAAY        UAAW                           </tspan>
+<tspan x="20" y="334.0">                            BAL         LAAY             BAF         OAAY                           </tspan>
+<tspan x="20" y="340.0">                            LAF         UAAU            YAAO         JAF                            </tspan>
+<tspan x="20" y="346.0">                             AAY         AAS            UAAW         BAW                            </tspan>
+<tspan x="20" y="352.0">                             DAS         BAO            SABY        WAB                             </tspan>
+<tspan x="20" y="358.0">                             LAN         DAN            QAB         QAF                             </tspan>
+<tspan x="20" y="364.0">                             WAJ         HAJ            NAD         NAS                             </tspan>
+<tspan x="20" y="370.0">                              DF         OAH            LAL         JB                              </tspan>
+<tspan x="20" y="376.0">                              LB         WAF            JAS         DH                              </tspan>
+<tspan x="20" y="382.0">                              SAW         BD            FAY         AO                              </tspan>
+<tspan x="20" y="388.0">                               AQ         DB            DB         UAY                              </tspan>
+<tspan x="20" y="394.0">                               JJ         FAY           BD         OF                               </tspan>
+<tspan x="20" y="400.0">                               QF         JAW          YAF         JN                               </tspan>
+<tspan x="20" y="406.0">                               WD         OAS          WAL         FU                               </tspan>
+<tspan x="20" y="412.0">                                J         UAQ          UAQ         H                                </tspan>
+<tspan x="20" y="418.0">                                U          AN          QAW         U                                </tspan>
+<tspan x="20" y="424.0">                                           DJ          NB                                           </tspan>
+<tspan x="20" y="430.0">                                           HH          LD                                           </tspan>
+<tspan x="20" y="436.0">                                           LH          JH                                           </tspan>
+<tspan x="20" y="442.0">                                           NH          JJ                                           </tspan>
+<tspan x="20" y="448.0">                                           OH          LL                                           </tspan>
+<tspan x="20" y="454.0">                                           SH          LO                                           </tspan>
+<tspan x="20" y="460.0">                                           UH          LS                                           </tspan>
+<tspan x="20" y="466.0">                                           YH          LU                                           </tspan>
+<tspan x="20" y="472.0">                                            J          LY                                           </tspan>
+<tspan x="20" y="478.0">                                            L          L                                            </tspan>
+<tspan x="20" y="484.0">                                            Y          Y                                            </tspan>
+<tspan x="20" y="490.0">                                                                                                    </tspan>
+<tspan x="20" y="496.0">                                                                                                    </tspan>
+<tspan x="20" y="502.0">                                                                                                    </tspan>
+<tspan x="20" y="508.0">                                                                                                    </tspan>
+</text>
+<text x="350" y="44" fill="#24292f" font-size="15px">
+<tspan x="350" y="44">smrrshrr -------------------------------------------------------------------</tspan>
+<tspan x="350" y="74" class="dim">. </tspan><tspan class="key">Role</tspan>:<tspan class="dim"> ...................... </tspan><tspan class="value">Undergraduate CSE Student</tspan>
+<tspan x="350" y="98" class="dim">. </tspan><tspan class="key">OS</tspan>:<tspan class="dim"> ........................ </tspan><tspan class="value">Arch Linux</tspan>
+<tspan x="350" y="122" class="dim">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dim"> .................... </tspan><tspan class="value">Linux Kernel</tspan>
+<tspan x="350" y="146" class="dim">. </tspan><tspan class="key">Editor</tspan>:<tspan class="dim"> .................... </tspan><tspan class="value">Emacs</tspan>
+<tspan x="350" y="170" class="dim">. </tspan><tspan class="key">Focus</tspan>:<tspan class="dim"> ..................... </tspan><tspan class="value">Machine Learning, Linux, Systems</tspan>
+<tspan x="350" y="206">- Languages &amp; Tools ---------------------------------------------------------</tspan>
+<tspan x="350" y="230" class="dim">. </tspan><tspan class="key">Programming</tspan>:<tspan class="dim"> .............. </tspan><tspan class="value">C, C++, Python</tspan>
+<tspan x="350" y="254" class="dim">. </tspan><tspan class="key">Human</tspan>:<tspan class="dim"> ..................... </tspan><tspan class="value">English, Hindi, Italian, Espanol</tspan>
+<tspan x="350" y="278" class="dim">. </tspan><tspan class="key">ML.Core</tspan>:<tspan class="dim"> ................... </tspan><tspan class="value">NumPy, Pandas, Scikit-learn</tspan>
+<tspan x="350" y="302" class="dim">. </tspan><tspan class="key">ML.Viz</tspan>:<tspan class="dim"> .................... </tspan><tspan class="value">Matplotlib, Seaborn, OpenCV</tspan>
+<tspan x="350" y="326" class="dim">. </tspan><tspan class="key">ML.Frameworks</tspan>:<tspan class="dim"> ............. </tspan><tspan class="value">PyTorch, TensorFlow</tspan>
+<tspan x="350" y="350" class="dim">. </tspan><tspan class="key">Graphics</tspan>:<tspan class="dim"> .................. </tspan><tspan class="value">SFML, OpenGL</tspan>
+<tspan x="350" y="386">- Interests -----------------------------------------------------------------</tspan>
+<tspan x="350" y="410" class="dim">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="dim"> ................... </tspan><tspan class="value">Architecture, Space Tech</tspan>
+<tspan x="350" y="434" class="dim">. </tspan><tspan class="key">LookingForward</tspan>:<tspan class="dim"> ............ </tspan><tspan class="value">Kernel Developer, Open Source Enthusiast</tspan>
+<tspan x="350" y="470">- Contact -------------------------------------------------------------------</tspan>
+<tspan x="350" y="494" class="dim">. </tspan><tspan class="key">Email</tspan>:<tspan class="dim"> ..................... </tspan><tspan class="value">smeershrma2006@gmail.com</tspan>
+<tspan x="350" y="518" class="dim">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dim"> .................. </tspan><tspan class="value">sameersharma-71b7ba341</tspan>
+</text>
+</svg>
