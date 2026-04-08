@@ -8,11 +8,11 @@
 <p align="center">
   <img
     alt="smrrshrr's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=smrrshrr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
+    src="./profile/stats.svg"
   />
   <img
     alt="smrrshrr's top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrrshrr&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    src="./profile/top-langs.svg"
   />
 </p>
 
